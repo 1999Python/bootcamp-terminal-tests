@@ -1,0 +1,19 @@
+{
+  "name": "first_terminal_tests",
+  "version": "1.0.0",
+  "description": "Bootcamp tests :) Yeaho",
+  "main": "countAllFromTown.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1999Python/BootcampTestsBack-end.git"
+  },
+  "author": "Raadiyah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1999Python/BootcampTestsBack-end/issues"
+  },
+  "homepage": "https://github.com/1999Python/BootcampTestsBack-end#readme"
+}
