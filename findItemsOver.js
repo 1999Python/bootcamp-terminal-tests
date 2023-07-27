@@ -44,7 +44,7 @@ var itemList = [
            basket.push(item);
         }
       }
-      console.log(basket);
+    
       return basket;
       }
   
